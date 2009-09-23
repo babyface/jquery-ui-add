@@ -1,0 +1,6 @@
+; $Id: jquery_ui_add.info
+name = jQuery UI Add
+description = Includes the jQuery UI plug-in.
+package = User interface
+core = 6.x
+dependencies[] = jquery_ui

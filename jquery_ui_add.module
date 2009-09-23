@@ -1,0 +1,4 @@
+<?php
+// $Id: jquery_ui_add.module
+
+jquery_ui_add(array('effects.slide'));
